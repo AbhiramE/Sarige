@@ -1,0 +1,12 @@
+--- 
+app: 
+  days: 
+    - monday
+    - tuesday
+    - wednesday
+    - thursday
+    - friday
+    - saturday
+    - sunday
+data: 
+  data_file_prefix: ../data/route_sheet
